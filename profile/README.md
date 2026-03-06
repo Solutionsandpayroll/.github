@@ -46,6 +46,7 @@ Practicante Automatización
 Para soporte, dudas técnicas o información adicional:
 
 📧 **automatizacion2@solutionsandpayroll.com**
+
 📧 **automatizacion3@solutionsandpayroll.com**
 ---
 
