@@ -34,7 +34,10 @@ Esto permite que cualquier miembro del equipo pueda entender rápidamente el fun
 Los repositorios actualmente disponibles han sido desarrollados por:
 
 **Cristian Parada**  
-Desarrollador de software
+Tecnico de Automatización
+
+**Juan Dvid Urbina**  
+Practicante Automatización
 
 ---
 
@@ -42,8 +45,8 @@ Desarrollador de software
 
 Para soporte, dudas técnicas o información adicional:
 
-📧 **cristianparada531@gmail.com**
-
+📧 **automatizacion2@solutionsandpayroll.com**
+📧 **automatizacion3@solutionsandpayroll.com**
 ---
 
 ## 🎯 Nuestro objetivo
