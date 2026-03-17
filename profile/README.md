@@ -39,6 +39,10 @@ Tecnico de Automatización
 **Juan Dvid Urbina**  
 Practicante Automatización
 
+**Nicolas Ballesteros**  
+Aprendiz Automatización
+
+
 ---
 
 ## 📬 Contacto
@@ -48,6 +52,8 @@ Para soporte, dudas técnicas o información adicional:
 📧 **automatizacion2@solutionsandpayroll.com**
 
 📧 **automatizacion3@solutionsandpayroll.com**
+
+📧 **automatizacion@solutionsandpayroll.com**
 ---
 
 ## 🎯 Nuestro objetivo
